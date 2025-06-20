@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Wanja
 
-<!--
-**wbkay71/wbkay71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently enrolled in the **AI Engineer Track at Masterschool** (Term 4),  
+where I'm learning and building with **Python**, **HTML**, **CSS**, and **SQL**.
 
-Here are some ideas to get you started:
+I'm especially interested in the intersection of **AI, creativity, and storytelling** –  
+how we can use technology to **create meaning**, not just efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 By trade, I'm a **Creative Executive Producer** and founder of [WBK Media GmbH](https://www.wbkmedia.de),  
+developing media formats, documentaries, and educational content – now enhanced by AI.
+
+---
+
+## 🧠 Interests & Focus
+
+- 🤖 Artificial Intelligence & Generative Tools  
+- 🧩 Creative Automation & No-Code Prototyping  
+- 🎬 Content Strategy & Media Innovation  
+- 🛠️ Building simple, smart tools with Python
+
+---
+
+## 📍 Based in Hamburg, Germany  
+Feel free to connect, collaborate, or follow my learning journey!

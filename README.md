@@ -1,24 +1,42 @@
-# 👋 Hi, I'm Wanja
+# 👋 Welcome, nice to meet you!
+
+🎯 Aspiring AI Engineer  
+Blending creativity, structure, and strategy – with a growing passion for intelligent systems.
+
+---
+
+## 🧠 About Me
 
 I'm currently enrolled in the **AI Engineer Track at Masterschool** (Term 4),  
-where I'm learning and building with **Python**, **HTML**, **CSS**, and **SQL**.
+building a strong foundation in **Python**, **SQL**, **HTML**, and **CSS**.  
 
-I'm especially interested in the intersection of **AI, creativity, and storytelling** –  
-how we can use technology to **create meaning**, not just efficiency.
-
-💼 By trade, I'm a **Creative Executive Producer** and founder of [WBK Media GmbH](https://www.wbkmedia.de),  
-developing media formats, documentaries, and educational content – now enhanced by AI.
+With a background in **media production, storytelling, and leadership**,  
+I’m now exploring how AI can support creative workflows, automate meaningful tasks,  
+and unlock new ways of thinking and making.
 
 ---
 
-## 🧠 Interests & Focus
+## 🧰 Tech Stack & Tools
 
-- 🤖 Artificial Intelligence & Generative Tools  
-- 🧩 Creative Automation & No-Code Prototyping  
-- 🎬 Content Strategy & Media Innovation  
-- 🛠️ Building simple, smart tools with Python
+🐍 Python (foundations, CLI tools, data structures)  
+🛢️ SQL (basic queries, filtering, joins)  
+🌐 HTML & CSS (web basics)  
+🧪 Prompting & prototyping with ChatGPT, Midjourney, Make (no-code)  
+📊 Currently exploring: APIs, data pipelines, AI assistants
 
 ---
 
-## 📍 Based in Hamburg, Germany  
-Feel free to connect, collaborate, or follow my learning journey!
+## 🚀 Currently Learning
+
+- Python scripting & automation  
+- Practical applications of AI & ML  
+- Frontend & backend basics for AI tools  
+- How to turn creative ideas into working code  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open for exchange – especially if you work at the intersection of  
+**creativity + AI + real-world value**.  
+Say hi or follow along!

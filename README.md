@@ -7,7 +7,7 @@ Blending creativity, structure, and strategy – with a growing passion for inte
 
 ## 🧠 About Me
 
-I'm currently enrolled in the **AI Engineer Track at Masterschool** (Term 4),  
+I'm currently enrolled in the **AI Engineer Track at Masterschool** (Term 5),  
 building a strong foundation in **Python**, **SQL**, **HTML**, and **CSS**.  
 
 With a background in **media production, storytelling, and leadership**,  
